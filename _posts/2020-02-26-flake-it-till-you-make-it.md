@@ -3,7 +3,7 @@ layout: post
 title: What Sonam Means to Me
 subtitle: Article by Ayush More
 #cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/sonam_face1.png
+thumbnail-img: /assets/img/sonam_face1.jpg
 #share-img: /assets/img/path.jpg
 #tags: [books, test]
 ---
